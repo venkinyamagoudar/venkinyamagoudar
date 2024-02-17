@@ -72,6 +72,7 @@ struct IOSDeveloper {
     
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&label=GitHub&labelColor=silver&logo=github&logoColor=black&message=Venki&color=black&link=https://github.com/venkinyamagoudar)](https://github.com/venkinyamagoudar)
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&label=LinkedIn&labelColor=silver&logo=linkedin&logoColor=blue&message=Venki&color=blue&link=https://linkedin.com/in/roopa-ven)](https://linkedin.com/in/roopa-ven)
+[![Gmail](https://img.shields.io/static/v1?style=for-the-badge&label=gmail&labelColor=silver&logo=gmail&logoColor=red&message=Venki&color=red&link=vnyamagoudar@gmail.com)](vnyamagoudar@gmail.com)
 
 ---
 
