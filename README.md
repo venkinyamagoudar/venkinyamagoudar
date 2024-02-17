@@ -19,7 +19,7 @@ struct IOSDeveloper {
 - 🌱 <samp>I’m currently learning **UIKit** & **SwiftUI**.</samp>
 - 👯 <samp>I’m looking to collaborate on Different Project of **iOS** & **visionOS** Applications.</samp>
 - 💬 <samp>Ask me about **Problem Solving**.</samp>
-- ⚡ <samp>Fun fact: I use tabs instead of space. </samp>
+- ⚡ <samp>Fun fact: My code editor is set to use tabs instead of spaces! </samp>
 ---
 
 ---
