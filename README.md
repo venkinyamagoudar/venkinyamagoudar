@@ -11,7 +11,9 @@ struct IOSDeveloper {
     }
 }
 ```
----
+
+<img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="250">
+<hr/>
 
 - 🧑🏻‍💻 <samp>I’m currently learning to build apps for **visionOS** and **iOS**.</samp>
 - 🔭 <samp>I’m currently working on **Personal Projects** & **Open Source**.</samp>
@@ -20,8 +22,6 @@ struct IOSDeveloper {
 - 👯 <samp>I’m looking to collaborate on Different Project of **iOS** & **visionOS** Applications.</samp>
 - 💬 <samp>Ask me about **Problem Solving**.</samp>
 - ⚡ <samp>Fun fact: My code editor is set to use tabs instead of spaces! </samp>
----
-
 ---
 
 <div align="center">
@@ -44,3 +44,25 @@ struct IOSDeveloper {
 </div>
 
 ---
+
+<div align="center">
+
+# 📈 GitHub Status
+
+</div>
+
+<p align="center">
+  <table>
+  <tr>
+      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=venkinyamagoudar&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
+      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkinyamagoudar&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
+  </tr>   
+</table>
+</p>
+
+---
+
+
+<!-- This is a comment
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venkinyamagoudar)](https://github.com/venkinyamagoudar/github-readme-stats)
+ -->
