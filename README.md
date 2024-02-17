@@ -1,12 +1,17 @@
-## Hey, there! <img src="https://raw.githubusercontent.com/G1Joshi/Assets/main/hey%20there.gif" alt="Octocat" width="25" height="25"> I am
-
-<!-- Header section -->
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70807&random=false&width=435&lines=%3E%3E+Venkatesh+Nyamagoudar" alt="Typing SVG" /></a>
-</p>
-
+### Hi There. You definitely arrived on the right user 🥳 .
 ---
-<img align="right" src="">
+```swift
+struct IOSDeveloper {
+    let name = "Venkatesh Nyamagoudar"
+    var role = "iOS Developer"
+    var languageSpoken = ["en_US", "kn_In"]
+    
+    func sayHi() {
+        print("Thanks for dropping by, hope you find some of my work interesting")
+    }
+}
+```
+---
 
 - 🧑🏻‍💻 <samp>I’m currently learning to build apps for **visionOS** and **iOS**.</samp>
 - 🔭 <samp>I’m currently working on **Personal Projects** & **Open Source**.</samp>
