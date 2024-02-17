@@ -62,6 +62,18 @@ struct IOSDeveloper {
 
 ---
 
+<div align="center">
+
+# Socials 🌐
+
+</div>
+
+<div align="center">
+    
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&label=GitHub&labelColor=silver&logo=github&logoColor=black&message=Venki&color=black&link=https://github.com/venkinyamagoudar)](https://github.com/venkinyamagoudar)
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&label=LinkedIn&labelColor=silver&logo=linkedin&logoColor=blue&message=Venki&color=blue&link=https://linkedin.com/in/roopa-ven)](https://linkedin.com/in/roopa-ven)
+
+---
 
 <!-- This is a comment
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venkinyamagoudar)](https://github.com/venkinyamagoudar/github-readme-stats)
