@@ -12,7 +12,7 @@ struct IOSDeveloper {
 }
 ```
 
-<img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="250">
+<img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="240">
 <hr/>
 
 - 🧑🏻‍💻 <samp>I’m currently learning to build apps for **visionOS** and **iOS**.</samp>
