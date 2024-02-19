@@ -78,6 +78,17 @@ struct IOSDeveloper {
 
 <div align="center">
 
+# Github Streak
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=venkinyamagoudar&theme=highcontrast)](https://git.io/streak-stats)
+---
+
+<div align="center">
+
 # 💻 Check Out My Repos ⬇️
 
 </div>
